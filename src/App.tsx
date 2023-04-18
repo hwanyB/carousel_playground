@@ -1,12 +1,8 @@
-import React from 'react';
-import Carousel from './componenets/Carousel';
+import React from "react";
+import Carousel from "./componenets/Carousel";
 
 function App() {
-  return (
-    <div className="App">
-      <Carousel />
-    </div>
-  );
+  return <Carousel />;
 }
 
 export default App;
